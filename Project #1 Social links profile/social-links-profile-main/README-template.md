@@ -10,7 +10,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](../Screenshot_21-10-2024_19339_127.0.0.1.jpeg)
+![alt text](Screenshot_30-10-2024_14536_127.0.0.1.jpeg)
 
 ### Links
 
