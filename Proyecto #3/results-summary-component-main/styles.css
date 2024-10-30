@@ -1,0 +1,21 @@
+body {
+    width: 1440px;
+}
+
+.container {
+    border: 1px solid;
+    width: 720px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border: none;
+}
+
+.containerBlue {
+    background-color: blue;
+    color: white;
+    border-radius: 5%;
+}
+
+.containerWhite {
+    background-color: antiquewhite;
+}
